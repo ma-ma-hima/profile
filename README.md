@@ -1,1 +1,1 @@
-# sakane-chan.github.io
+# 名刺にはりつけるQRコード用サイト
